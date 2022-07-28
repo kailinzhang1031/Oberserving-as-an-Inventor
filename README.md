@@ -6,8 +6,6 @@ When exploring the beauty of Computer Science, I am surprised by so many connect
 
 ## Contents
 
-## Contents
-
 ### Chapter 1 Story at the Beginning of Creation
 
 - Dynamic Programming, Algorithm: Objective law in the world
@@ -58,10 +56,9 @@ When exploring the beauty of Computer Science, I am surprised by so many connect
   - Academic persuits
 
 
-
-
 ## Technical Information
 
 - This e-book will be based on English, with some annotations in Chinese if necessary.
 - As a freshman in writing by English, I'm not famalliar enough to write a book like native-speaker. The use of language, like vocabulary, grammar, expression will be edit frequently.
 - To be continued.
+- Update: 07-29 2:00 Xi'an, China
