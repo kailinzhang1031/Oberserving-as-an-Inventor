@@ -6,6 +6,8 @@ When exploring the beauty of Computer Science, I am surprised by so many connect
 
 ## Contents
 
+## Contents
+
 ### Chapter 1 Story at the Beginning of Creation
 
 - Dynamic Programming, Algorithm: Objective law in the world
