@@ -1,4 +1,4 @@
-# Oberserving-as-an-Inventor
+# Observing-as-an-Inventor
 
 ## Introduction
 
